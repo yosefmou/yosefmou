@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosefmou
-- 👀 I’m interested in Programming, Cybersecurity, 
-- 🔬 Passionate about clean code and about the people I work with.
+- 👀 I’m interested in Programming and Cybersecurity 
+- 🔬 Passionate about clean code and about the people I work with
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me yosefnigm@gmail.com
 
